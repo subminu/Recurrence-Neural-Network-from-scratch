@@ -1,1 +1,1 @@
-# Recurrence-Neural-Network-from-scratch
+# Recurrent-Neural-Network-from-scratch
